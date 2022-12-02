@@ -5,9 +5,6 @@
 Front-end study project for a search players game
 </pre>
 
-<h3>:eye_speech_bubble: Live demo</h3>
-
-
 ## 🧪 Built With
 
 - [ReactJS](https://reactjs.org)
