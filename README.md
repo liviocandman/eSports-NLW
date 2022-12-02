@@ -7,7 +7,6 @@ Front-end study project for a search players game
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration [here]()
 
 ## 🧪 Built With
 
